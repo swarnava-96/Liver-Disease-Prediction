@@ -3,7 +3,7 @@
 #### Goal: To develop a POC using Flask, HTML and CSS for predicting whether a person is suffering from Liver Disease or not, implementing Machine Learning algorithm.
 
 ### About the Data set: 
-This is a machine learning project where we will predict whether a person is suffering from a Liver Disease or not. The data set was downloaded from [Kaggle](https://www.kaggle.com/uciml/indian-liver-patient-records). 
+This is a machine learning project where we will predict whether a person is suffering from Liver Disease or not. The data set was downloaded from [Kaggle](https://www.kaggle.com/uciml/indian-liver-patient-records). 
 This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records.
 
 Any patient whose age exceeded 89 is listed as being of age "90".
@@ -70,7 +70,7 @@ python app.py
 ![Screenshot (160) (1)](https://user-images.githubusercontent.com/75041273/133101543-c463bb82-a224-48e1-94a9-6f0f07a7f979.png)
 
 ### Further Changes to be Done:
-- [ ] Including more features.
+- [ ] Including more features, that might increase model accuracy.
 - [ ] Deploying the Web Application on Cloud.
      - [ ] Google Cloud 
      - [ ] Azure
