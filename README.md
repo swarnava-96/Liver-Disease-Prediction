@@ -72,9 +72,11 @@ python app.py
 ```
 ##### Make sure to change the directory to the root folder.  
 
-### A Glimpse of the application
+### A Glimpse of the application:
+![Screenshot (161)](https://user-images.githubusercontent.com/75041273/133101463-acd70485-0a2a-47bd-8ccf-1a19eefb6c11.png)
+![Screenshot (160) (1)](https://user-images.githubusercontent.com/75041273/133101543-c463bb82-a224-48e1-94a9-6f0f07a7f979.png)
 
-### Further Changes to be Done
+### Further Changes to be Done:
 - [ ] Including more features.
 - [ ] Deploying the Web Application on Cloud.
      - [ ] Google Cloud 
@@ -82,7 +84,7 @@ python app.py
      - [ ] Heroku
      - [ ] AWS
 
-### Technology Stack
+### Technology Stack:
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> ![Seaborn](https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge&logo=seaborn&logoColor=%white)  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />  <img src="https://img.shields.io/badge/matplotlib-342B029.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />
 
