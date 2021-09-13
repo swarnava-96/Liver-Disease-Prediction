@@ -1,8 +1,9 @@
 # Liver-Disease-Prediction
 
-Goal: To develop a POC using Flask, HTML and CSS for predicting whether a person is suffering from Liver Disease or not, implementing Machine Learning algorithm.
+#### Goal: To develop a POC using Flask, HTML and CSS for predicting whether a person is suffering from Liver Disease or not, implementing Machine Learning algorithm.
 
-About the Data set: This is a machine learning project where we will predict whether a person is suffering from a Liver Disease or not. 
+### About the Data set: 
+This is a machine learning project where we will predict whether a person is suffering from a Liver Disease or not. 
 This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records.
 
 Any patient whose age exceeded 89 is listed as being of age "90".
@@ -23,7 +24,8 @@ Columns:
 
 A binary classification problem statement.
 
-Project Description: After loading the dataset("indian_liver_patient.csv") the first step was to perform an extensive Exploratory Data Analysis(EDA).
+### Project Description: 
+After loading the dataset("indian_liver_patient.csv") the first step was to perform an extensive Exploratory Data Analysis(EDA).
 Count plos for the target was made to check whether the dataset is balanced or not. It was a balanced dataset. Factor plots were created for the features "Age , "Gender", "Dataset"(target). Histograms
 and scatter plots were also a part of EDA. Distribution of data and correlation distribution was understood. Then a correlation heatmap was plotted to check the correlation between all the independent features.
 Jointplot was made for "Total_Protiens" and "Albumin".
@@ -45,7 +47,8 @@ The final step was to save the model as a pickle file to reuse it again for the 
 
 The "Liver Disease Prediction.ipynb" file contains all these informations.
 
-Deployment Architecture: The model was deployed locally (port 5000). The backend part of the application was made using Flask and for the frotend part HTML and CSS was used.
+### Deployment Architecture: 
+The model was deployed locally (port 5000). The backend part of the application was made using Flask and for the frotend part HTML and CSS was used.
 I have not focussed much on the frontend as I am not that good at it. The file "app.py" contains the entire flask code and inside the templates folder, "liver.html" contains the homepage and "result.html" contains the result page. 
 
 ### Installation:
